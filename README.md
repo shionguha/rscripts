@@ -10,3 +10,7 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 **testargs.R**: Script to read command line arguments into R scripts
 
 **svm_viz.R**: Generating a toy GMM and applying SVM and visualizing it.
+
+**simple-sir.R**: Simulates and inspects a simple 3 variable compartmental model (SIR model) to model for social contagion
+
+**pca-iris.R**: Uses Fisher's Iris Dataset to perform Principal Component Analysis (PCA) and its diagnoistics.
