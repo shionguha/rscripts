@@ -14,3 +14,5 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 **simple-sir.R**: Simulates and inspects a simple 3 variable compartmental model (SIR model) to model for social contagion
 
 **pca-iris.R**: Uses Fisher's Iris Dataset to perform Principal Component Analysis (PCA) and its diagnoistics.
+
+**LMM_Examples.R**: A simple implementation of a linear mixed model. These types of models are also known as Hierarchical Linear Models or Random Effects Models.
