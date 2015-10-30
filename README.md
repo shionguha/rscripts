@@ -16,3 +16,5 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 **pca-iris.R**: Uses Fisher's Iris Dataset to perform Principal Component Analysis (PCA) and its diagnoistics.
 
 **LMM_Examples.R**: A simple implementation of a linear mixed model. These types of models are also known as Hierarchical Linear Models or Random Effects Models.
+
+**kmeans.R**: A script which takes example data from kmeans-data and then runs the kmeans algorithm on it. Easy and fast - can be modified for any simple dataset's purpose.
