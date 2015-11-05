@@ -20,3 +20,5 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 **kmeans.R**: A script which takes example data from kmeans-data and then runs the kmeans algorithm on it. Easy and fast - can be modified for any simple dataset's purpose.
 
 **structuralequation-examplemodels.R**: A script which fits a standard structural equation model on sample data (provided within the script)
+
+**t-test-robustness.R*: A script which simulates some data and inspects the robustness of the standard 2 sample t-test.
