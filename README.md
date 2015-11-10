@@ -22,3 +22,5 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 **structuralequation-examplemodels.R**: A script which fits a standard structural equation model on sample data (provided within the script)
 
 **t-test-robustness.R*: A script which simulates some data and inspects the robustness of the standard 2 sample t-test.
+
+**robust-regressions.R**: A script which performs robust multiple linear regression on data. This type of a regression is usually quite flexible from small departures from the usual assumptions.
