@@ -23,6 +23,7 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 
 **t-test-robustness.R**: A script which simulates some data and inspects the robustness of the standard 2 sample t-test.
 
+**small-multiple-example.R**: Applies Tufte's small multiple principle to data analysis with many categories to make visualization and analysis simpler and more palatable. The example output is in small-multiple-example.png
 **coin-fairness-bayesiantest.R**: A script which simulates a series of coin tosses and tests the hypothesis that the coin is a fair coin. 
 
 **robust-regressions.R**: A script which performs robust multiple linear regression on data. This type of a regression is usually quite flexible from small departures from the usual assumptions.
