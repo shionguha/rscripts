@@ -28,7 +28,7 @@ tindex <- sample(n,ntrain) # indices of training samples
 xtrain <- x[tindex,]
 xtest <- x[-tindex,]
 ytrain <- y[tindex]
-1ytest <- y[-tindex]
+ytest <- y[-tindex]
 istrain=rep(0,n)
 istrain[tindex]=1
 
