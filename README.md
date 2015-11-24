@@ -27,3 +27,5 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 **coin-fairness-bayesiantest.R**: A script which simulates a series of coin tosses and tests the hypothesis that the coin is a fair coin. 
 
 **robust-regressions.R**: A script which performs robust multiple linear regression on data. This type of a regression is usually quite flexible from small departures from the usual assumptions.
+
+**bayesian-sensitivityanalysis.R**: A script which takes some sample data and performs Bayesian sensitivity analysis on the results of an experiment. This is slightly different from the usual frequentist way of doing sensitivity analysis.
