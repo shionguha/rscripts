@@ -33,3 +33,5 @@ This is a collection of R scripts for my personal, research purposes. I make no 
 **proportion-comparing.R**: A script which makes up some fake data and statistically tests between 2 proportions from a bayesian perspective. This type of analysis is very quick, dirty and useful in hci research. 
 
 **hierarchicalmodeling-bayesian.R**: A script which performs randomized hierarchical, bayesian modeling.
+
+**normalmean-knownvarian-bayesian.R**: A script which simulates a gaussian mean with known variances and looks at its moments.
