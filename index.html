@@ -153,7 +153,7 @@ function OnlineLearning(data, alpha, n){
 }
 
 function UpdatePerceptron(){
-	d3.json("PerceptronClassifier.json", function(error, data){
+	d3.json("/data/PerceptronClassifier.json", function(error, data){
 		ret = OnlineLearning(data, alpha, 10);
 		m = ret[0];
 		b = ret[1];
