@@ -1,22 +1,23 @@
-Before class readings and activity:
+Before class readings:
 
 (a) Batya Friedman and Helen Nissenbaum. 1996. Bias in computer systems. ACM Trans. Inf. Syst. 14, 3 (July 1996), 330–347. DOI:https://doi.org/10.1145/230538.230561 
 
-(b) 
-
+(b)  boyd, danah and Crawford, Kate, Six Provocations for Big Data (September 21, 2011). A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society, September 2011, Available at SSRN: https://ssrn.com/abstract=1926431 or http://dx.doi.org/10.2139/ssrn.1926431 
 
 In-class activity:
 
-(a) Quickly Read: https://www.nature.com/articles/d41586-020-02003-2?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews  
-(b) Break up into small groups and discuss 
+(a) Quickly Read: https://www.nature.com/articles/d41586-020-02003-2?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews
+  
+(b) Break up into small groups and discuss the relationship between power and classification algorithms. 
+
+(c) Decided as a group, one main argument for and against classification algorithms.
+
+(d) Report back to the rest of the class. We will finish today with a discussion of everyone's points for and against classification algorithms.
+ 
 
 
 Suggested readings for the future:
 
 (a) Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2018). Prediction-based decisions and fairness: A catalogue of choices, assumptions, and definitions. arXiv preprint arXiv:1811.07867.
 
-(b)
-
-(c)
-
-(d)
+(b) Gareth, J., Daniela, W., Trevor, H., & Robert, T. (2013). An introduction to statistical learning: with applications in R. Spinger. URL: http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf 
