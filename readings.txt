@@ -1,0 +1,22 @@
+Before class readings and activity:
+
+(a) Batya Friedman and Helen Nissenbaum. 1996. Bias in computer systems. ACM Trans. Inf. Syst. 14, 3 (July 1996), 330–347. DOI:https://doi.org/10.1145/230538.230561 
+
+(b) 
+
+
+In-class activity:
+
+(a) Quickly Read: https://www.nature.com/articles/d41586-020-02003-2?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews  
+(b) Break up into small groups and discuss 
+
+
+Suggested readings for the future:
+
+(a) Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2018). Prediction-based decisions and fairness: A catalogue of choices, assumptions, and definitions. arXiv preprint arXiv:1811.07867.
+
+(b)
+
+(c)
+
+(d)
