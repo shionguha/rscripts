@@ -15,7 +15,6 @@ In-class activity:
 (d) Report back to the rest of the class. We will finish today with a discussion of everyone's points for and against classification algorithms.
  
 
-
 Suggested readings for the future:
 
 (a) Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2018). Prediction-based decisions and fairness: A catalogue of choices, assumptions, and definitions. arXiv preprint arXiv:1811.07867.
